@@ -23,3 +23,10 @@ if [ grep -q pattern file ]
 then
   echo "Found a match"
 fi
+
+# Single quote not escaped properly
+echo 'This is not how it\'s done'.
+
+# backslash / linefeed is a literal where it is used
+var='This is long \
+piece of text'
