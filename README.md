@@ -20,7 +20,7 @@
 
 This repository demonstrates sample issues in Shell configuration raised by DeepSource.
 
-[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/deepsourcelabs/demo-shell/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/deepsourcelabs/demo-shell.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/deepsourcelabs/demo-shell/?ref=repository-badge)
 
 ### Report
 
